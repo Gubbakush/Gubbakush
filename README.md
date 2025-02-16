@@ -30,3 +30,6 @@ DATA = {
 
 a = input("SEARCH: ")
 print(DATA[a])
+
+VIDEO LINK
+https://youtu.be/pctQhdA0lDo?si=kEA7VCotE9FgY-7Q
